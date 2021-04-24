@@ -15,19 +15,19 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-①内容①
+①你妈死了①
 //远程公告内容
 
-②内容②
+②true②
 //是否需要输入密码(kill)   kill=true 需要  ||| kill=false 不需要
 
-③密码③
+③说梦话抱歉③
 //远程密码设置
 
-④qq号?④
+④3617302640④
 //qq号
 
-⑤qq群⑤
+⑤696771902⑤
 //群号
 
 ⑥true⑥
