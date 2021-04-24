@@ -18,7 +18,7 @@ Syntax highlighted code block
 ①你妈死了①
 //远程公告内容
 
-②true②
+②false②
 //是否需要输入密码(kill)   kill=true 需要  ||| kill=false 不需要
 
 ③说梦话抱歉③
