@@ -15,6 +15,30 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+①内容①
+//远程公告内容
+
+②内容②
+//是否需要输入密码(kill)   kill=true 需要  ||| kill=false 不需要
+
+③密码③
+//远程密码设置
+
+④qq号?④
+//qq号
+
+⑤qq群⑤
+//群号
+
+⑥true⑥
+//是否强制更新(lp)   lp=true 需要  ||| lp=false 不需要
+
+⑦链接⑦
+//更新链接
+
+⑧内容⑧
+//更新内容
+
 - Bulleted
 - List
 
